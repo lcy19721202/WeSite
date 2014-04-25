@@ -1,0 +1,164 @@
+html,body {
+	color: rgb(34, 34, 34);
+	font-family: Microsoft YaHei;
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+}
+
+body {
+	min-width: 320px;
+	max-width: 400px;
+	margin: 0px auto;
+}
+
+.copyright {
+	padding: 8px;
+	text-align: center;
+	font-size: 14px;
+	color: rgb(102, 102, 102);
+}
+
+a {
+	color: rgb(0, 0, 0);
+	text-decoration: none;
+}
+
+.clear {
+	clear: both;
+}
+
+.content img {
+	width: 100%;
+}
+
+.content1 img {
+	width: 100%;
+}
+
+.mk {
+	margin-top: 10px;
+}
+
+.mk .mk-small {
+	float: left;
+	width: 50%;
+}
+
+.mk .mk-small .content {
+	height: 160px;
+	border-radius: 5px;
+	margin: 3px 3px 3px 6px;
+}
+
+.mk .mk-small .content .mk-small0 {
+	float: left;
+	width: 50%;
+}
+
+.mk .mk-small .content .mk-small0 .content-0 {
+	height: 77px;
+	border-radius: 5px;
+	margin: 0px 3px 3px 0px;
+}
+
+.mk .mk-small .content .mk-small0 .content-1 {
+	height: 77px;
+	border-radius: 5px;
+	margin: 0px 0px 3px 3px;
+}
+
+.mk .mk-small .content1 {
+	border-radius: 5px;
+	margin: 3px 6px 3px 3px;
+}
+
+.mk .mk-small .content1 .mk-small0 {
+	float: left;
+	width: 50%;
+}
+
+.mk .mk-small .content1 .mk-small0 .content-0 {
+	height: 77px;
+	border-radius: 5px;
+	margin: 0px 3px 3px 0px;
+}
+
+.mk .mk-small .content1 .mk-small0 .content-1 {
+	height: 77px;
+	border-radius: 5px;
+	margin: 0px 0px 3px 3px;
+}
+
+.mk .mk-small .content1 .mk-small1 {
+	width: 100%;
+}
+
+.mk .mk-small .content1 .mk-small1 .content-0 {
+	height: 77px;
+	border-radius: 5px;
+}
+
+.mk .mk-small .purple {
+	background: none repeat scroll 0% 0% rgb(92, 172, 226);
+}
+
+.mk .mk-small .red {
+	background: none repeat scroll 0% 0% rgb(231, 75, 59);
+}
+
+.mk .mk-small .violet {
+	background: none repeat scroll 0% 0% rgb(155, 89, 181);
+}
+
+.mk .mk-small .green {
+	background: none repeat scroll 0% 0% rgb(114, 195, 32);
+}
+
+.mk .mk-small .orange {
+	background: none repeat scroll 0% 0% rgb(241, 195, 15);
+}
+
+.small-pic0 {
+	width: 77px;
+	height: 77px;
+	margin: 0px auto;
+	padding-top: 35px;
+}
+
+.small-pic1 {
+	width: 35px;
+	height: 35px;
+	margin: 0px auto;
+	padding-top: 15px;
+}
+
+.db-font {
+	width: 100px;
+	text-align: center;
+	color: rgb(255, 255, 255);
+	font-size: 12px;
+	height: 40px;
+	line-height: 60px;
+	margin: 0px auto;
+	overflow: hidden;
+}
+
+.db-font1 {
+	width: 80px;
+	text-align: center;
+	color: rgb(255, 255, 255);
+	font-size: 12px;
+	height: 25px;
+	line-height: 25px;
+	margin: 0px auto;
+	overflow: hidden;
+}
+
+.big {
+	width: 100%;
+	height: 160px;
+	border-radius: 5px;
+	background: none repeat scroll 0% 0% rgb(231, 75, 59);
+	position: relative;
+}
